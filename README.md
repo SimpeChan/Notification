@@ -2,7 +2,7 @@
 - 2017-12-16 19:23
 - 本应用为RN开发教学专用，所有资源都来自于互联网第三方搜索。本应用支持繁体，欲使用繁体请修改系统语言为繁体(非简体即可)，并关闭应用后台重打开应用
 - 前往下载
-- https://raw.githubusercontent.com/SemperChen/tianxiashuge/master/%E5%A4%A9%E4%B8%8B%E4%B9%A6%E9%98%81.apk
+- https://raw.githubusercontent.com/SemperChen/tianxiashuge/master/天下书阁.apk
 - true
 - 5000
 - false
