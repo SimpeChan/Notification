@@ -1,9 +1,9 @@
-- 新版本提示
-- 2018-1-17 11:23
-- 还在担心流量不够用吗，本阅读器缓存(下载)离线阅读功能帮你轻松解决问题。通过wifi缓存(下载)全本书后，在无网络的时候从书架进入阅读，点击离线模式即可
-- 查看详情
-- https://github.com/SemperChen/tianxiashuge/blob/master/README.md
-- true
+- 建议更新
+- 2018-2-28 11:23
+- 建议更新，新版本修复因缓存无法删除导致占用手机内存问题。改进部分功能
+- 前往下载
+- https://raw.githubusercontent.com/SemperChen/tianxiashuge/master/天下书阁.apk
+- false
 - 5000
 - false
 - ca-app-pub-4533308396777454/5937435545
