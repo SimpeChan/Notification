@@ -1,6 +1,6 @@
 - 新版本2.1.2更新提示
 - 2018-3-7 11:23
-- 修复部分缓存功能不能正常缓存问题，优化缓存数据减少缓存占用内存。
+- 修复部分缓存功能不能正常缓存问题!!!!
 - 前往下载
 - https://raw.githubusercontent.com/SemperChen/tianxiashuge/master/天下书阁.apk
 - true
